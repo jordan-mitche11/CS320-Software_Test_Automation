@@ -1,5 +1,5 @@
 # CS320-Software_Test_Automation
-Software Test, Automation
+Software Test, Automation, and Quality Assurance
 
 **Course Description**
 
